@@ -23,7 +23,7 @@ if main=="__main__":
 ```
 
 
-![иконка](https://media.tenor.com/fSzOCS87ddIAAAAM/%D1%82%D0%B0%D0%BA%D1%81%D0%B0-%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0.gif)
+![Гифка](https://i.gifer.com/10Q5.gif)
 
 
 ![статистика](https://img.icons8.ru/?size=100&id=ZuQiaFCa1vXe&format=png&color=000000)
