@@ -23,7 +23,7 @@ if main=="__main__":
 ```
 
 
-![иконка]([https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white](https://t2.genius.com/unsafe/516x516/https%3A%2F%2Fimages.genius.com%2Fea7ba010695e58e7d3fc85d0036a154c.1000x1000x1.png))
+![иконка](https://media.tenor.com/fSzOCS87ddIAAAAM/%D1%82%D0%B0%D0%BA%D1%81%D0%B0-%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0.gif)
 
 
 ![статистика](https://img.icons8.ru/?size=100&id=ZuQiaFCa1vXe&format=png&color=000000)
